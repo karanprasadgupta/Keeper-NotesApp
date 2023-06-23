@@ -15,7 +15,6 @@ Keeper NotesApp is a simple note-taking application developed using React.js. It
 
 - Create new notes with a title and content.
 - Delete unwanted notes.
-- Responsive design for mobile and desktop screens.
 
 ## Getting Started
 
