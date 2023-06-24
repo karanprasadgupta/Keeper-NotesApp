@@ -1,5 +1,8 @@
 # Keeper NotesApp
 
+![GitHub](https://img.shields.io/github/license/karanprasadgupta/Keeper-NotesApp)
+![GitHub last commit](https://img.shields.io/github/last-commit/karanprasadgupta/Keeper-NotesApp)
+
 Keeper NotesApp is a simple note-taking application developed using React.js. It allows users to create and delete notes, helping them stay organized and keep track of important information. This repository contains the source code and necessary files for running the application. However, this is just a basic project, so it does not support a database yet so notes are not saved may be developed if required.
 
 ## Table of Contents
